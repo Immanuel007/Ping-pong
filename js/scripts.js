@@ -1,9 +1,32 @@
 $(document).ready(function()
 {
-  $("form#ping-pong").submit(function(event){
+  $("form#pingPong").submit(function(event)
+  {
     event.preventDefault();
-    var ping-pong = parseInt($("input#number").val());
-    var result = leapYear(year);
-    $("#result").text(result);
+    var ping = parseInt($("input#ping").val());
+    var result = pingPong(ping);
+    $("#result").append(result);
+
   });
+
 });
+
+
+var pingPong = function(ping){
+
+  if((ping%3) === 0 && (ping%5) === 0) {
+    return "pingpong";
+  }
+
+  else if ((ping%5)===0) {
+    return "pong";
+  }
+
+  else if ((ping%3)===0) {
+  return "ping";
+  }
+
+  else{
+    return ping;
+  }
+};
