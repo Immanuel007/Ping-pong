@@ -1,4 +1,7 @@
 .Pong
 {
-  text-align: center;
+  text-align:center;
+  background-image:url(../img/wave_motion_rokid_fantasy.gif);
+  background-position:center;
+  background-attachment:fixed;
 }
