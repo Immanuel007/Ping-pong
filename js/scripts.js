@@ -29,16 +29,3 @@ var my=[];
  }
 }
 }
-
-$(document).ready(function(){
- $("button").click(function(){
-   alert("Awesome!:)");
-   alert("Let's start");
-   alert("All the best dear user")
- });
- $("finished").click(function(){
-   alert("Enjoyed the game?");
-   alert("please give us your feedback about the game and subscribe to our channel");
-   alert("Thankyou in advance");
- });
-});
