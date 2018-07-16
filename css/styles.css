@@ -1,21 +1,23 @@
+
 .Pong
 {
   text-align:center;
   background-image:url(../img/wave_motion_rokid_fantasy.gif);
   background-position:center;
   background-attachment:fixed;
-  margin-bottom: 10px;
-  padding-bottom: 50px;
+  margin-bottom: 20px;
 }
 #piing
 {
   background-attachment:fixed;
   background-image: url(../img/agif1opt.gif);
   padding-bottom: 200px;
-  padding-right: 447px;
+  padding-right: 20px;
   text-align: center;
   color:  green;
-  padding-right: 200px;
+  padding-left: 20px;
+  font-family:cursive;
+
 }
 
 #Poong
@@ -24,4 +26,15 @@
   color:  green;
   background-image: url(../img/futui2nd_dribbble_02.gif);
   padding-bottom: 88px;
+  text-align: center;
+  font-family:cursive;
+}
+#center
+{
+  color: #F15A29;
+  text-align: center;
+}
+#black
+{
+  background-color: black;
 }
