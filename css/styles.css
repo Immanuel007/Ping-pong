@@ -5,11 +5,14 @@
   background-position:center;
   background-attachment:fixed;
   margin-bottom: 20px;
+  padding-bottom: 300px;
 }
 #piing
 {
   background-attachment:fixed;
   background-image: url(../img/agif1opt.gif);
+  padding-bottom: 300px;
+  padding-top:100px;
 }
 
 #Poong
