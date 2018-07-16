@@ -3,8 +3,20 @@ Ping-Pong
 ## Author
 Immanuel Saina
 ## Description
-This project is about any number which is divisible by 3, it outputs "ping" , any number which is divisible by 5, it says its "pong" and when a number is divisible by 3 and 5, it outputs that its "pingpong"
-Here is a link to my ping-pong project  
+This project is about any number which is divisible by 3, it outputs "ping" , any number which is divisible by 5, it says its "pong" and when a number is divisible by 3 and 5, it outputs that its "ping-pong".
+When a user enters any number, it should list down from 1 until the number the user input..For example lets say the user inputted 10..So it will be:
+1
+2
+ping
+4
+pong
+ping
+7
+8
+ping
+pong
+That's the way it should be.
+Here is a link to my ping-pong project  https://github.com/Immanuel007/Ping-pong
 ## Requirements
 One requires html, css and Javascript. Its useful to use bootstrap and jQuery links.
 ## Bugs
