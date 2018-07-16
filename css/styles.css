@@ -4,20 +4,23 @@
   background-image:url(../img/wave_motion_rokid_fantasy.gif);
   background-position:center;
   background-attachment:fixed;
-  margin-bottom: 20px;
-  padding-bottom: 300px;
+  margin-bottom: 10px;
+  padding-bottom: 50px;
 }
 #piing
 {
   background-attachment:fixed;
   background-image: url(../img/agif1opt.gif);
-  padding-bottom: 300px;
-  padding-top:100px;
+  padding-bottom: 200px;
+  padding-right: 447px;
+  text-align: center;
+  color:  #F15A29;
 }
 
 #Poong
 {
 background-attachment:fixed;
-color: violet;
+color:  #F15A29;
 background-image: url(../img/futui2nd_dribbble_02.gif);
+padding-bottom: 6px;
 }

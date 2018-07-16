@@ -29,3 +29,11 @@ var my=[];
  }
 }
 }
+
+$(document).ready(function(){
+ $("button").click(function(){
+   alert("Awesome!:)");
+   alert("Let's start");
+   alert("All the best dear user")
+ });
+});
