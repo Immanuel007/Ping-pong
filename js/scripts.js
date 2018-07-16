@@ -1,6 +1,3 @@
-
-
-
 //user Interface logic
 $(document).ready(function()
 {
