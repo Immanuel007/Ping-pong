@@ -16,11 +16,12 @@ ping
 ping
 pong
 That's the way it should be.
-Here is a link to my ping-pong project  https://github.com/Immanuel007/Ping-pong
 ## Requirements
-One requires html, css and Javascript. Its useful to use bootstrap and jQuery links.
+One will require to use jQuery links and bootstrap. One must be able to create variables so that your work is functioning. One will require to use css to style his or her page. The user-Interface logic and back-end logic are separate and hence both are supposed to function well without issues. The user shouldn't be able to have a hard time thus make it easy for him to play the game with ease. One will also use buttons on the User-interface logic.
 ## Bugs
 Errors such as brackets, semi-colons and also disarrangement of some columns in my web page
+## Link to GitHub pages
+Here is a link to my project https://immanuel007.github.io/Pig-dice/
 ## LICENCE
 Copyright <2018> <Immanuel Barboi>
 
