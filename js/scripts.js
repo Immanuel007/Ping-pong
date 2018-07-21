@@ -6,10 +6,10 @@ $(document).ready(function()
    event.preventDefault();
    var number =$("#number").val();
    var result = parseInt(number);
+   $(".outlist").empty();
    user(result);
    my.forEach(function(result)
    {
-
    $("#outcome").append("<li>" + result + "</li>");
    });
   });
